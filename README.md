@@ -1,2 +1,2 @@
-# Economic-Recovery-After-Covid-19
-See what data speaks about economic recovery trends from different parts of the world
+# Covid-19-Data-Exploration-With-Python
+See what data speaks about Covid-19 pandemic from different parts of the world
